@@ -1,0 +1,14 @@
+1900-08
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1900-08.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1900-08.csv

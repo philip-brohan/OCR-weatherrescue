@@ -1,0 +1,14 @@
+1899-06
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1899-06.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1899-06.csv

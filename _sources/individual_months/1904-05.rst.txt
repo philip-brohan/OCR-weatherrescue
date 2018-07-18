@@ -1,0 +1,14 @@
+1904-05
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1904-05.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1904-05.csv

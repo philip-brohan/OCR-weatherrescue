@@ -1,0 +1,14 @@
+1898-12
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1898-12.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1898-12.csv

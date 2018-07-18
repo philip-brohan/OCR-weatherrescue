@@ -1,0 +1,14 @@
+1901-04
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1901-04.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1901-04.csv
