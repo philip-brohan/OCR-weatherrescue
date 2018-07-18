@@ -1,0 +1,14 @@
+1902-10
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1902-10.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1902-10.csv

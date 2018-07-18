@@ -148,7 +148,7 @@ html_short_title = u'OCR-weatherrescue'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-html_logo = 'logo/UK.GS1987.png'
+html_logo = 'logo/rrb.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -193,7 +193,7 @@ html_sidebars = {'**': ['globaltoc.html','sourcelink.html']}
 
 # If false, no index is generated.
 #
-# html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 #
@@ -344,9 +344,9 @@ texinfo_documents = [
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {
- 	'python': ('https://docs.python.org/2', None),
-	'numpy': ('http://docs.scipy.org/doc/numpy/', None),
-	'scipy': ('http://docs.scipy.org/doc/scipy/reference/', None),
-	'pandas': ('http://pandas.pydata.org/pandas-docs/stable/', None),
-}
+#intersphinx_mapping = {
+# 	'python': ('https://docs.python.org/2', None),
+#	'numpy': ('http://docs.scipy.org/doc/numpy/', None),
+#	'scipy': ('http://docs.scipy.org/doc/scipy/reference/', None),
+#	'pandas': ('http://pandas.pydata.org/pandas-docs/stable/', None),
+#}

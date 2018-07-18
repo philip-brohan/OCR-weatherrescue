@@ -1,0 +1,14 @@
+1902-02
+=======
+
+Document
+--------
+
+.. figure:: ../../images/1902-02.jpg
+   :width: 800px
+   :align: center
+
+Transcription
+-------------
+
+.. literalinclude:: ../../data/1902-02.csv
