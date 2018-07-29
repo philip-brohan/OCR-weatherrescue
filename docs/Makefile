@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = ../../OCR-weatherrescue.pages
+BUILDDIR      = ../../OCR-weatherrescue.ghpg
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
