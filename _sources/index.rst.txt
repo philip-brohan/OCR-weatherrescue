@@ -15,6 +15,11 @@ The objective is to facilitate development and testing of automated tools for do
 .. toctree::
    :maxdepth: 1
 
+   leaderboard
+   
+.. toctree::
+   :maxdepth: 1
+
    Authors and acknowledgements <credits>
 
 This dataset is distributed under the terms of the `Open Government Licence <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>`_.
